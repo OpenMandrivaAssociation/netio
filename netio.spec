@@ -32,3 +32,10 @@ cp -pr netio %{buildroot}/%{_sbindir}
 %doc bin/os2-i386.exe
 %doc netio.doc
 /usr/sbin/netio
+
+
+%changelog
+* Fri Nov 25 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.31-1
++ Revision: 733327
+- imported package netio
+
