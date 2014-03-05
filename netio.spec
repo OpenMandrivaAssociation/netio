@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 Name:		netio
 Version: 	1.31
 Release:	2
