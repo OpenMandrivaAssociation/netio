@@ -1,11 +1,11 @@
 Name:		netio
 Version: 	1.31
-Release:	1
+Release:	2
 License: 	GPL
 Group: 		Monitoring
 Url:		http://www.ars.de/ars/ars.nsf/docs/netio
 Source:		http://www.ars.de/ars/ars.nsf/netio-131.tar.bz2
-Summary: 	a network benchmarking tool that measures net throughput with NetBIOS and TCP/IP protocols
+Summary: 	Network benchmarking tool
 BuildRequires:  glibc-devel libgcc gcc gcc-c++
 BuildRequires:  dos2unix
 
@@ -32,10 +32,3 @@ cp -pr netio %{buildroot}/%{_sbindir}
 %doc bin/os2-i386.exe
 %doc netio.doc
 /usr/sbin/netio
-
-
-%changelog
-* Fri Nov 25 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.31-1
-+ Revision: 733327
-- imported package netio
-
