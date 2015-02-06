@@ -2,7 +2,7 @@
 
 Name:		netio
 Version: 	1.31
-Release:	2
+Release:	3
 License: 	GPL
 Group: 		Monitoring
 Url:		http://www.ars.de/ars/ars.nsf/docs/netio
