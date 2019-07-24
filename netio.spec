@@ -1,8 +1,8 @@
 %define debug_package %{nil}
 
 Name:		netio
-Version: 	1.31
-Release:	3
+Version:	1.33
+Release:	1
 License: 	GPL
 Group: 		Monitoring
 Url:		http://www.ars.de/ars/ars.nsf/docs/netio
