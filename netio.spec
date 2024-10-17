@@ -5,7 +5,7 @@ Version:	1.33
 Release:	1
 License: 	GPL
 Group: 		Monitoring
-Url:		http://www.ars.de/ars/ars.nsf/docs/netio
+Url:		https://www.ars.de/ars/ars.nsf/docs/netio
 Source:		http://www.ars.de/ars/ars.nsf/netio-131.tar.bz2
 Summary: 	Network benchmarking tool
 BuildRequires:  glibc-devel libgcc gcc gcc-c++
